@@ -131,7 +131,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 960466119831486436, guid: 308f661713ee247498c5b8ad71558077, type: 3}
       propertyPath: m_Intensity
-      value: 524288
+      value: 8388608
       objectReference: {fileID: 0}
     - target: {fileID: 960466119831486436, guid: 308f661713ee247498c5b8ad71558077, type: 3}
       propertyPath: m_Lightmapping
